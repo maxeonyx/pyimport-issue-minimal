@@ -1,0 +1,17 @@
+{
+    "python.analysis.importFormat": "relative",
+    "python.analysis.autoSearchPaths": false,
+    "python.analysis.indexing": true,
+    "python.analysis.diagnosticMode": "workspace",
+    "python.analysis.typeCheckingMode": "standard",
+    "python.analysis.autoImportCompletions": true,
+    "python.analysis.experimentalserver": true,
+    "python.analysis.include": [
+        "depsrc",
+        "appsrc",
+    ],
+    "python.analysis.extraPaths": [
+        "depsrc",
+        "appsrc",
+    ],
+}
